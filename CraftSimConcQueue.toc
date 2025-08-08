@@ -1,0 +1,13 @@
+## Interface: 110107
+## DefaultState: enabled
+
+## Title: CraftSim Concentration Queue
+## Category: Professions
+## Notes: Adds concentration crafting queue functionality to CraftSim Recipe Scan
+## Author: Skivoma-Illidan
+## Version: 1.0.0
+## Dependencies: CraftSim
+## LoadOnDemand: 0
+## OptionalDeps: Blizzard_Professions
+
+CraftSimConcQueue.lua
