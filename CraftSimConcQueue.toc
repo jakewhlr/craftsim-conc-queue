@@ -1,4 +1,4 @@
-## Interface: 110107
+## Interface: 120000, 120001
 ## DefaultState: enabled
 
 ## Title: CraftSim Concentration Queue
